@@ -1,0 +1,1 @@
+<footer class="mt-auto text-center border border-2 border-black"> Projet PHP - MVC </footer>
