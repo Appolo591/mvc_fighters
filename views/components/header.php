@@ -11,6 +11,8 @@
         <a class="nav-link" href="add_character_page">Création d'un combattant</a>
         <a class="nav-link" href="lightFighters">Combattants de la lumière</a>
         <a class="nav-link" href="darkFighters">Combattants obscurs </a>
+        <a class="nav-link" href="api_characters" target= »_blank> API </a>
+
       </div>
     </div>
   </div>
